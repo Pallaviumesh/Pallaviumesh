@@ -1,0 +1,2 @@
+age=input('enter a num')
+print(type(age))
